@@ -1,0 +1,19 @@
+.card {
+background-color: white;
+border-radius: 2px;
+padding: 20px;
+width: 200px;
+border: 1px solid rgb(230,230,230);
+box-shadow: 0 0 5px rgb(230,230,230);
+text-align: center;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  color: #A7A7A7;
+}
+
+
